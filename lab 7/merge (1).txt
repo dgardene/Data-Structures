@@ -1,0 +1,7 @@
+(1 in 4.txt)
+(101 in 0.txt)
+(25 in 0.txt)
+(25 in 0.txt)
+(21 in 0.txt)
+(19 in 0.txt)
+(3 in 0.txt)
